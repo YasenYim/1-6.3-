@@ -1,0 +1,14 @@
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\bin\Debug\netcoreapp3.1\1-6.3 打印三角形.exe
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\bin\Debug\netcoreapp3.1\1-6.3 打印三角形.deps.json
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\bin\Debug\netcoreapp3.1\1-6.3 打印三角形.runtimeconfig.json
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\bin\Debug\netcoreapp3.1\1-6.3 打印三角形.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\bin\Debug\netcoreapp3.1\1-6.3 打印三角形.dll
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\bin\Debug\netcoreapp3.1\1-6.3 打印三角形.pdb
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\obj\Debug\netcoreapp3.1\1-6.3 打印三角形.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\obj\Debug\netcoreapp3.1\1-6.3 打印三角形.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\obj\Debug\netcoreapp3.1\1-6.3 打印三角形.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\obj\Debug\netcoreapp3.1\1-6.3 打印三角形.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\obj\Debug\netcoreapp3.1\1-6.3 打印三角形.dll
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\obj\Debug\netcoreapp3.1\1-6.3 打印三角形.pdb
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\obj\Debug\netcoreapp3.1\1-6.3 打印三角形.genruntimeconfig.cache
+E:\Unity\NikoLua\Hello\1-6.3 打印三角形\obj\Debug\netcoreapp3.1\1-6.3 打印三角形.csproj.AssemblyReference.cache
